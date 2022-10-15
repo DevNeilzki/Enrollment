@@ -1,5 +1,5 @@
 <template>
-<body style="background-image: url('https://wallpaperaccess.com/full/5923902.jpg'); background-size: cover;">
+<body style="bg-image: url('https://wallpaperaccess.com/full/5923902.jpg'); background-size: cover;">
   <div   class="fixed-top d-flex align-items-center justify-content-center fadeInDown" style="bottom: 0; overflow-y: auto">
   <b-card  bg-variant="light" style="max-width: 540px;">
     <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/344/external-user-advertising-kiranshastry-lineal-color-kiranshastry-2.png" id="icon" alt="User Icon" />
