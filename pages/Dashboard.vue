@@ -1,10 +1,10 @@
 <template>
-  <Login/>
+  <Dashboard/>
 </template>
 
 <script>
 export default {
     name: "IndexPage",
-    components: 'empty'
+    components: 'default2'
 }
 </script>
