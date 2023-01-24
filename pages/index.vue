@@ -1,10 +1,9 @@
 <template>
-  <Login/>
+  <LoginPane />
 </template>
 
 <script>
 export default {
     name: "IndexPage",
-    components: 'empty'
 }
 </script>
