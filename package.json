@@ -5,8 +5,11 @@
   "scripts": {
     "dev": "nuxt",
     "generate": "nuxt generate",
+   "build": "SET NODE_OPTIONS=--openssl-legacy-provider && react-scripts build",
+    "start": "SET NODE_OPTIONS=--openssl-legacy-provider && react-scripts start",
     "build": "nuxt build",
     "start": "nuxt start"
+    
    
   },
   "dependencies": {
